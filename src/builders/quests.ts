@@ -372,7 +372,7 @@ export function buildQuestPayload(
       mentionComponent.accessory = {
         type: 2,
         style: 5,
-        label: 'Discord ID',
+        label: 'My Discord',
         emoji: null,
         disabled: false,
         url: buttonUrl,
