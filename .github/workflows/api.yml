@@ -23,7 +23,7 @@ jobs:
       DISCORD_THREAD_AUTO_ARCHIVE_DURATION: 10080
       DISCORD_MENTION_COLLECTIBLES: ${{ secrets.DISCORD_MENTION_COLLECTIBLES }}
       DISCORD_MENTION_QUESTS: ${{ secrets.DISCORD_MENTION_QUESTS }}
-      DISCORD_QUESTS_BUTTON_URL: https://discord.gg/vZApbWt8Wp
+      DISCORD_QUESTS_BUTTON_URL: https://discord.gg/eCx2NwAPwA
 
     steps:
       - name: Checkout repository
