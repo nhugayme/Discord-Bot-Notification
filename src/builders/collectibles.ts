@@ -88,7 +88,7 @@ function starterTitle(release: CollectibleRelease): string {
 }
 
 function buildStarterFooter(mention: string): string {
-  return `-# Source by Discord ID API | \`discord.my.id\`\n-# ${mention}`;
+  return `-# Source by deleteduserf0bd3b64 | \`@deleteduserf0bd3b64\`\n-# ${mention}`;
 }
 
 function buildDetailFooter(release: CollectibleRelease): string {
